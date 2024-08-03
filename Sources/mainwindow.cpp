@@ -185,7 +185,7 @@ void MainWindow::on_Push_clicked()
     runGitCommand("git commit -m \"" + comment + "\"");
     runGitCommand("git branch -M master");
     runGitCommand("git remote add origin " + url);
-    runGitCommand("git push -u origin master");
+    runGitCommand("git push origin master");
 }
 
 // Slot for Update button click event
