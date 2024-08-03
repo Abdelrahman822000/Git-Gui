@@ -57,22 +57,28 @@ This project is a Git GUI developed using C++ and the Qt framework. It provides 
 ### GUI Tabs
 
 1. **Start Tab:**
-    - Enter your username and email for git and choose your operation. ![Start](https://github.com/user-attachments/assets/870eb33c-190d-40f8-b7ee-3baf82713d09)
+    - Enter your username and email for git and choose your operation. ![Start](https://github.com/user-attachments/assets/2814380a-a6e0-462c-9e12-862a5386c51b)
+
 
 2. **New Repo Tab:**
-    - Create a new Git repository by specifying the local repository path, the repository URL and initial commit message. ![New Repo](https://github.com/user-attachments/assets/562bd84d-41ed-4e36-9262-c22bf5d37f3b)
+    - Create a new Git repository by specifying the local repository path, the repository URL, and the initial commit message. ![New Repo](https://github.com/user-attachments/assets/8fe5c203-2357-4093-aeb2-ee7c789731f7)
+
 
 3. **Update Repo Tab:**
-    - Update the local repository by specifying the local repository path and commit message. ![Update Repo](https://github.com/user-attachments/assets/a8957a5b-3f83-48f9-9a4f-70a16985b316)
+    - Update the local repository by specifying the local repository path and commit message. ![Update Repo](https://github.com/user-attachments/assets/aa09f283-2924-49a1-a8a7-d1eb92daa035)
+
 
 4. **Clone Tab:**
-    - Clone a remote repository to a local directory by providing the remote URL and local path. ![Clone Repo](https://github.com/user-attachments/assets/c8f80a6b-89eb-4a08-b20d-d89e2e5f975d)
+    - Clone a remote repository to a local directory by providing the remote URL and local path. ![Clone Repo](https://github.com/user-attachments/assets/35fd30e4-c815-431a-99f9-660fc5cbb6c6)
+
 
 5. **Status Tab:**
-    - View the current status of the repository, including staged, unstaged, and untracked changes. ![Get Status](https://github.com/user-attachments/assets/11884f00-e6b9-455d-a388-793c1ba4e7be)
+    - View the current status of the repository, including staged, unstaged, and untracked changes. ![Get Status](https://github.com/user-attachments/assets/1634a58d-f648-4af4-8cae-eea22bd65e57)
+
 
 6. **Log Tab:**
-    - View the commit history and detailed logs of the repository. ![Get Log](https://github.com/user-attachments/assets/e9cdc89e-e357-4e62-8fdc-cf98e44fcec9)
+    - View the commit history and detailed logs of the repository. ![Get Log](https://github.com/user-attachments/assets/ff99b999-4921-41dc-af83-1a7dae76ce7d)
+
 
 ## License
 
